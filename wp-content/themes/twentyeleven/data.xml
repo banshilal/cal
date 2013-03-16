@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<CATEGORIES> 
+  <CD id="1">
+  	<INRINR>1</INRINR>
+	<INRUSD>50</INRUSD>
+	<USDINR>.02</USDINR>
+	<USDUSD>1</USDUSD>
+  </CD>
+  
+ 
+</CATEGORIES>
